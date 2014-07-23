@@ -6,6 +6,8 @@ The Python interface to the Redis key-value store.
 .. image:: https://secure.travis-ci.org/andymccurdy/redis-py.png?branch=master
         :target: http://travis-ci.org/andymccurdy/redis-py
 
+This fork aims to add asyncIO support to redis-py using trollius.
+
 Installation
 ------------
 
